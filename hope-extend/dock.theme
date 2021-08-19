@@ -1,0 +1,36 @@
+#Hope - Extend Edtion  ... from Digi Series
+#Created by PT_Alfred in October 2020
+#@PTAlfred@mastodon.art
+
+[PlankTheme]
+TopRoundness=7
+BottomRoundness=0
+LineWidth=1
+OuterStrokeColor=0;;0;;0;;141
+FillStartColor=0;;0;;0;;0
+FillEndColor=0;;0;;0;;0
+InnerStrokeColor=255;;255;;255;;71
+
+[PlankDockTheme]
+HorizPadding=21
+TopPadding=-6
+BottomPadding=1
+ItemPadding=3
+IndicatorSize=3
+IconShadowSize=3
+UrgentBounceHeight=2
+LaunchBounceHeight=1
+FadeOpacity=1
+ClickTime=75
+UrgentBounceTime=600
+LaunchBounceTime=750
+ActiveTime=25
+SlideTime=4750
+FadeTime=350
+HideTime=725
+GlowSize=75
+GlowTime=1750
+GlowPulseTime=1750
+UrgentHueShift=175
+ItemMoveTime=141
+CascadeHide=true
